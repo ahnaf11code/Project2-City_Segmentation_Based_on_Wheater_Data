@@ -1,1 +1,1 @@
-# Project2-City_Segmentation_Based_on_Wheater_Data
+# Project2-City_Segmentation_Based_on_Weather_Data
